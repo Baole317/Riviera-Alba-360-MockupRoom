@@ -1,0 +1,41 @@
+{
+  "sitePlan": "./siteplan.jpg",
+  "hotspots": [
+    {
+      "id": "4fut5abkc",
+      "name": "1",
+      "x": 86.88446361383868,
+      "y": 3.3175355450236967,
+      "imageData": "./1.jpg",
+      "type": "image",
+      "links": []
+    },
+    {
+      "id": "p82mj8051",
+      "name": "2",
+      "x": 55.9915573093512,
+      "y": 67.4565560821485,
+      "imageData": "./2.jpg",
+      "type": "image",
+      "links": []
+    },
+    {
+      "id": "ncxj0neeb",
+      "name": "3",
+      "x": 28.152702578691386,
+      "y": 58.451816745655606,
+      "imageData": "./3.jpg",
+      "type": "image",
+      "links": []
+    },
+    {
+      "id": "tw5dm4u1z",
+      "name": "4",
+      "x": 3.367899421859227,
+      "y": 84.04423380726699,
+      "imageData": "./4.jpg",
+      "type": "image",
+      "links": []
+    }
+  ]
+}
