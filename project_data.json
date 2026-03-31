@@ -1,0 +1,165 @@
+{
+  "sitePlan": "./siteplan.jpg",
+  "hotspots": [
+    {
+      "id": "w064ujiho",
+      "name": "1_260326",
+      "x": 88.49895760945101,
+      "y": 3.4451320051987353,
+      "imageData": "./1_260326.jpg",
+      "type": "image",
+      "links": [],
+      "previousImageData": null,
+      "designImageData": null
+    },
+    {
+      "id": "vq3gdrvtp",
+      "name": "2_260326",
+      "x": 58.756080611535786,
+      "y": 67.75426276890846,
+      "imageData": "./2_260326.jpg",
+      "type": "image",
+      "links": [],
+      "previousImageData": "./2_260326_prev.jpg",
+      "designImageData": "./2_260326_design.jpg"
+    },
+    {
+      "id": "drlppiv6c",
+      "name": "3_260326",
+      "x": 28.27194811211489,
+      "y": 58.19479738511377,
+      "imageData": "./3_260326.jpg",
+      "type": "image",
+      "links": [],
+      "previousImageData": null,
+      "designImageData": null
+    },
+    {
+      "id": "wy1d4vu78",
+      "name": "4_260326",
+      "x": 4.459115126245078,
+      "y": 83.76947100929178,
+      "imageData": "./4_260326.jpg",
+      "type": "image",
+      "links": [],
+      "previousImageData": null,
+      "designImageData": null
+    }
+  ],
+  "kanbanData": [
+    {
+      "id": "ctyjuyy40",
+      "todo": "",
+      "progress": "",
+      "done": "Cán sàn"
+    },
+    {
+      "id": "om2xe43we",
+      "todo": "",
+      "progress": "",
+      "done": "Vách thạch cao"
+    },
+    {
+      "id": "gjcv16kom",
+      "todo": "",
+      "progress": "",
+      "done": "Trần thạch cao"
+    },
+    {
+      "id": "b15z1mnnf",
+      "todo": "",
+      "progress": "",
+      "done": "Vách panel"
+    },
+    {
+      "id": "9bqjpazcz",
+      "todo": "",
+      "progress": "Sơn bả",
+      "done": ""
+    },
+    {
+      "id": "ulllerk64",
+      "todo": "",
+      "progress": "",
+      "done": "Sàn nhựa"
+    },
+    {
+      "id": "71vwyeu2f",
+      "todo": "Ốp gạch wc",
+      "progress": "",
+      "done": ""
+    },
+    {
+      "id": "vsqsp57ln",
+      "todo": "Ốp vách WC",
+      "progress": "",
+      "done": ""
+    },
+    {
+      "id": "ewzg1fpv0",
+      "todo": "",
+      "progress": "",
+      "done": "Điện âm"
+    },
+    {
+      "id": "do4b9xvef",
+      "todo": "Thiết bị điện",
+      "progress": "",
+      "done": ""
+    },
+    {
+      "id": "o4suqa1fm",
+      "todo": "Thiết bị nước",
+      "progress": "",
+      "done": ""
+    },
+    {
+      "id": "5rpmhn4ph",
+      "todo": "Nội thất Fit",
+      "progress": "",
+      "done": ""
+    },
+    {
+      "id": "npdv80fk2",
+      "todo": "Nội thất Loose",
+      "progress": "",
+      "done": ""
+    },
+    {
+      "id": "rdf1nfmul",
+      "todo": "Cửa Nhôm",
+      "progress": "",
+      "done": ""
+    },
+    {
+      "id": "x15hp1aq",
+      "todo": "Kính tắm đứng",
+      "progress": "",
+      "done": ""
+    },
+    {
+      "id": "pfnja2571",
+      "todo": "Lan can",
+      "progress": "",
+      "done": ""
+    },
+    {
+      "id": "e0qhkwas4",
+      "todo": "Rèm",
+      "progress": "",
+      "done": ""
+    },
+    {
+      "id": "7q3sai32s",
+      "todo": "Decor",
+      "progress": "",
+      "done": ""
+    },
+    {
+      "id": "ar6qd37ce",
+      "todo": "House keeping",
+      "progress": "",
+      "done": ""
+    }
+  ]
+}
